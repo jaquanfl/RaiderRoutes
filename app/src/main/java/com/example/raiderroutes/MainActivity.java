@@ -26,7 +26,7 @@ import com.google.maps.*;
 import com.google.maps.model.*;
 import com.google.android.gms.maps.model.LatLng;
 
-// Test
+
 class Building {
     private String name;
     private LatLng location; // LatLng for building's coordinates
