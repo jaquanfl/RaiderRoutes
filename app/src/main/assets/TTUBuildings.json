@@ -1,0 +1,369 @@
+{
+  "buildings": [
+    {
+      "name": "Human Sciences",
+      "latitude": 33.58337230422965,
+      "longitude": -101.8730793028495
+    },
+    {
+      "name": "Administration",
+      "latitude": 33.5834387805654,
+      "longitude": -101.87467876364839
+    },
+    {
+      "name": "Industrial Engineering",
+      "latitude": 33.58697706301402,
+      "longitude": -101.87651696174248
+    },
+    {
+      "name": "Electrical Engineering",
+      "latitude": 33.586649165699214,
+      "longitude": -101.87540317260358
+    },
+    {
+      "name": "Chemistry",
+      "latitude": 33.583681952362724,
+      "longitude": -101.87622674760176
+    },
+    {
+      "name": "Mathematics",
+      "latitude": 33.58496257081053,
+      "longitude": -101.87611613543565
+    },
+    {
+      "name": "Agricultural Science",
+      "latitude": 33.58282302427933,
+      "longitude": -101.87594374184114
+    },
+    {
+      "name": "Science Building",
+      "latitude": 33.584453871613505,
+      "longitude": -101.87699442082129
+    },
+    {
+      "name": "Civil Engineering",
+      "latitude": 33.586593934324185,
+      "longitude": -101.87406250122419
+    },
+    {
+      "name": "Student Union",
+      "latitude": 33.581342896742875,
+      "longitude": -101.87469885532226
+    },
+    {
+      "name": "School of Music",
+      "latitude": 33.5806862326842,
+      "longitude": -101.8743330161489
+    },
+    {
+      "name": "Holden Hall",
+      "latitude":33.58559428441119,
+      "longitude": -101.87365103334078
+    },
+    {
+      "name": "National Wind Institute",
+      "latitude": 33.58559707747042,
+      "longitude": -101.87597382635825
+    },
+    {
+      "name": "Petroleum Engineering",
+      "latitude": 33.587758872934614,
+      "longitude": -101.87403660088786
+    },
+    {
+      "name": "Development Office",
+      "latitude": 33.581667752986164,
+      "longitude": -101.87304277823746
+    },
+    {
+      "name": "Agricultural Pavilion",
+      "latitude": 33.582187238698026,
+      "longitude": -101.87680983229694
+    },
+    {
+      "name": "McClellan Building",
+      "latitude": 33.58135256276111,
+      "longitude": -101.87317377953354
+    },
+    {
+      "name": "Alumni Center",
+      "latitude": 33.5795101827579,
+      "longitude": -101.87289559460251
+    },
+    {
+      "name": "Doak Hall",
+      "latitude": 33.58290580066923,
+      "longitude": -101.87250660284715
+    },
+    {
+      "name": "Drane Hall",
+      "latitude": 33.581610910955725,
+      "longitude": -101.87230768505606
+    },
+    {
+      "name": "Horn Hall",
+      "latitude": 33.58054572240202,
+      "longitude": -101.87245879120346
+    },
+    {
+      "name": "Knapp Hall",
+      "latitude": 33.58052669934219,
+      "longitude": -101.87308104138074
+    },
+    {
+      "name": "Human Science Cottage Building",
+      "latitude": 33.58337174560236,
+      "longitude": -101.8730806439516
+    },
+    {
+      "name": "West Hall",
+      "latitude":33.58535052849273,
+      "longitude": -101.87243569671396
+    },
+    {
+      "name": "Sneed Hall",
+      "latitude":33.585403389421096,
+      "longitude": -101.87138118643041
+    },
+    {
+      "name": "Bledsoe Hall",
+      "latitude":33.58633738317976,
+      "longitude": -101.87143751281357
+    },
+    {
+      "name": "Gordon Hall",
+      "latitude":33.58636196182596,
+      "longitude": -101.87208258409473
+    },
+    {
+      "name": "Jones AT&T Stadium",
+      "latitude":33.59104965200679,
+      "longitude": -101.87288858786998
+    },
+    {
+      "name": "Agricultural Education",
+      "latitude": 33.582636169670856,
+      "longitude": -101.87724550653546
+    },
+    {
+      "name": "Creative Movement Studio",
+      "latitude": 33.58808238023841,
+      "longitude": -101.87268770285327
+    },
+    {
+      "name": "Library",
+      "latitude": 33.58139846868148,
+      "longitude": -101.87628894801513
+    },
+    {
+      "name": "Engineering Center",
+      "latitude": 33.585460462946486,
+      "longitude": -101.87415117893028
+    },
+    {
+      "name": "Chemical Engineering",
+      "latitude": 33.58734260443116,
+      "longitude": -101.87631587340053
+    },
+    {
+      "name": "Engineering Tech Labs",
+      "latitude": 33.58727148722836,
+      "longitude": -101.87413490284699
+    },
+    {
+      "name": "Fisheries & Wildlife Research",
+      "latitude":33.582789794399005,
+      "longitude": -101.87887229602936
+    },
+    {
+      "name": "Physical Plant Building",
+      "latitude": 33.58588198733488,
+      "longitude": -101.8833053068354
+    },
+    {
+      "name": "Wall Hall",
+      "latitude": 33.57905358286625,
+      "longitude": -101.87653548383336
+    },
+    {
+      "name": "Gates Hall",
+      "latitude": 33.57905134825492,
+      "longitude": -101.87753863002528
+    },
+    {
+      "name": "Psychology",
+      "latitude": 33.58052198001047,
+      "longitude": -101.87712669119038
+    },
+    {
+      "name": "University Theatre",
+      "latitude": 33.58014103260272,
+      "longitude": -101.8778422255891
+    },
+    {
+      "name": "Stangel Hall",
+      "latitude": 33.58352105928287,
+      "longitude": -101.87995810036333
+    },
+    {
+      "name": "Murdough Hall",
+      "latitude":33.583750094781585,
+      "longitude": -101.88100147968123
+    },
+    {
+      "name": "Hulen Hall",
+      "latitude": 33.57903923665369,
+      "longitude": -101.87915321937612
+    },
+    {
+      "name": "Clement Hall",
+      "latitude": 33.57902694628722,
+      "longitude": -101.88019391648575
+    },
+    {
+      "name": "Foreign Language Building",
+      "latitude": 33.58083355844908,
+      "longitude": -101.8787626231431
+    },
+    {
+      "name": "Museum",
+      "latitude": 33.590636222022226,
+      "longitude": -101.88587790117572
+    },
+    {
+      "name": "Media and Communications",
+      "latitude": 33.581980012029966,
+      "longitude": -101.88033830837357
+    },
+    {
+      "name": "Chitwood Hall",
+      "latitude": 33.57967934913109,
+      "longitude": -101.88184007823199
+    },
+    {
+      "name": "Coleman Hall",
+      "latitude": 33.57882338123329,
+      "longitude": -101.88263670511385
+    },
+    {
+      "name": "Weymouth Hall",
+      "latitude": 33.57999107458155,
+      "longitude": -101.88267156304983
+    },
+    {
+      "name": "Wiggins Complex",
+      "latitude": 33.57971957182707,
+      "longitude": -101.88367068591319
+    },
+    {
+      "name": "Biology",
+      "latitude": 33.58502944589042,
+      "longitude": -101.87812599671284
+    },
+    {
+      "name": "Architecture",
+      "latitude": 33.58069304668,
+      "longitude": -101.88069272124959
+    },
+    {
+      "name": "Law",
+      "latitude": 33.578851748219925,
+      "longitude": -101.8868602905778
+    },
+    {
+      "name": "University Greenhouse",
+      "latitude": 33.58408416978293,
+      "longitude": -101.88693826726525
+    },
+    {
+      "name": "University Pool",
+      "latitude": 33.58225174157095,
+      "longitude": -101.88382135430106
+    },
+    {
+      "name": "Food Tech",
+      "latitude": 33.582627435765716,
+      "longitude": -101.87638636046621
+    },
+    {
+      "name": "Art",
+      "latitude": 33.58069620408963,
+      "longitude": -101.88001776174262
+    },
+    {
+      "name": "Student Recreation Center",
+      "latitude": 33.58300006582278,
+      "longitude": -101.88450952376704
+    },
+    {
+      "name": "Housing Services",
+      "latitude": 33.58557702156148,
+      "longitude": -101.88550919057876
+    },
+    {
+      "name": "Mechanical Engineering",
+      "latitude": 33.58848112772283,
+      "longitude": -101.87460056737363
+    },
+    {
+      "name": "Carpenter Wells Complex",
+      "latitude": 33.586000894915195,
+      "longitude": -101.8799808837592
+    },
+    {
+      "name": "Education",
+      "latitude": 33.58018523489973,
+      "longitude": -101.87919732063814
+    },
+    {
+      "name": "English Philosophy",
+      "latitude": 33.581663792204175,
+      "longitude":  -101.87923243737058
+    },
+    {
+      "name": "Animal & Food Science",
+      "latitude": 33.582909401292106,
+      "longitude": -101.88855102512194
+    },
+    {
+      "name": "Experimental Science 1",
+      "latitude": 33.585510356004505,
+      "longitude": -101.87713822001315
+    },
+    {
+      "name": "Experimental Science 2",
+      "latitude": 33.585461774339635,
+      "longitude": -101.87903500308636
+    },
+    {
+      "name": "Plant & Soil Science",
+      "latitude": 33.58180215233641,
+      "longitude": -101.87857937892214
+    },
+    {
+      "name": "Student Wellness Center",
+      "latitude": 33.58588916209132,
+      "longitude": -101.88166262741248
+    },
+    {
+      "name": "Murray Hall",
+      "latitude": 33.58662711137648,
+      "longitude": -101.87897668505147
+    },
+    {
+      "name": "Rawls College of Business",
+      "latitude": 33.58783069428462,
+      "longitude": -101.87925914947411
+    },
+    {
+      "name": "Livermore Center",
+      "latitude": 33.587874470075896,
+      "longitude": -101.87609904395154
+    },
+    {
+      "name": "Honors Hall",
+      "latitude": 33.58703770086045,
+      "longitude": -101.8800855568225
+    }
+  ]
+}
